@@ -1,3 +1,4 @@
 homepage: https://github.com/theory/pg-semver/
 url: https://github.com/theory/pg-semver/archive/v0.4.0.zip
 sha1: 90f32d702b776a3e5b40cb231a3dc17c00227240
+aliases: semver

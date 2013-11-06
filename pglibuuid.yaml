@@ -1,3 +1,4 @@
 homepage: https://github.com/petere/pglibuuid
 url: https://github.com/petere/pglibuuid/archive/46b95c9c442f140ac6959e13d0cca09fa3928f62.zip
 sha1: 54c3d7feba34de26207f5d90324c3f571a60e59c
+aliases: libuuid
