@@ -2,5 +2,5 @@ language: c  # whatever
 before_install: sudo apt-get update
 install:
   - sudo apt-get install -qq --no-install-recommends curl git libyaml-perl perl
-  - curl -O https://raw.github.com/petere/pex/master/pex && chmod a+x pex && sudo cp pex /usr/local/bin/
+  - curl -O https://raw.githubusercontent.com/petere/pex/master/pex && chmod a+x pex && sudo cp pex /usr/local/bin/
 script: pex init $PWD && rm -rf $(pex --cache) && pex audit && pex repotest
