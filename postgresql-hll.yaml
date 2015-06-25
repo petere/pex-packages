@@ -1,4 +1,4 @@
 homepage: https://github.com/aggregateknowledge/postgresql-hll
-url: https://github.com/aggregateknowledge/postgresql-hll/archive/v2.10.0.zip
-sha1: dba886998a5ac885f5cedeef236f70d436cf8076
+url: https://github.com/aggregateknowledge/postgresql-hll/archive/v2.10.0.tar.gz
+sha1: 855cb16c3bec89cb245f0969de7b76b1e23f899d
 aliases: hll
