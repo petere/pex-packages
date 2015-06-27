@@ -1,4 +1,4 @@
-homepage: https://code.google.com/p/plv8js/
-url: http://api.pgxn.org/dist/plv8/1.4.3/plv8-1.4.3.zip
-sha1: 6e39c3c5464873700d1470cfdd0a389d662b403b
+homepage: https://github.com/plv8/plv8
+url: http://api.pgxn.org/dist/plv8/1.4.4/plv8-1.4.4.zip
+sha1: 1a86461d602ab2067ffa85812fbc4c782223514d
 aliases: plcoffee plls
