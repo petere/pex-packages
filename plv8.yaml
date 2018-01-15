@@ -1,4 +1,4 @@
 homepage: https://github.com/plv8/plv8
-url: http://api.pgxn.org/dist/plv8/1.4.4/plv8-1.4.4.zip
-sha1: 1a86461d602ab2067ffa85812fbc4c782223514d
+url: https://github.com/plv8/plv8/archive/v2.1.0.tar.gz
+sha1: aec2068e3826bddd3dff197f78e04bef9d5c2387
 aliases: plcoffee plls
