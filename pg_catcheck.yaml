@@ -1,3 +1,3 @@
 homepage: https://github.com/EnterpriseDB/pg_catcheck
-url: https://github.com/EnterpriseDB/pg_catcheck/archive/33635dc9e139b90178e5bbc2ccf27d32b0223062.tar.gz
-sha1: 0b6c000e90500924a57b219dd3bdab46fc2674ae
+url: https://github.com/EnterpriseDB/pg_catcheck/archive/refs/tags/1.2.0.tar.gz
+sha1: aeb065a54f480df9ddf845756c47213fb0a80f83
