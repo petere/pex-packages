@@ -1,3 +1,5 @@
-homepage: http://preprepare.projects.pgfoundry.org/README.html
+homepage: https://github.com/dimitri/preprepare
 url: https://github.com/dimitri/preprepare/archive/v0.9.tar.gz
 sha1: a9a83f8d4ee21bd90f6fa64c5b1b00cbf6b9a4b2
+type: extension
+summary: Aims to prepare all your statements as soon as possible and in a way that allows client queries not to bother at all and just call EXECUTE.

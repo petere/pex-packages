@@ -1,3 +1,5 @@
 homepage: https://plproxy.github.io/
 url: https://plproxy.github.io/downloads/files/2.10.0/plproxy-2.10.0.tar.gz
 sha1: 42dd9da6576ac978b7c717fb86194de6186214f6
+type: extension:language
+summary: Allows to do remote procedure calls between PostgreSQL databases, with optional sharding

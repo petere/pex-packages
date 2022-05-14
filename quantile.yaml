@@ -1,3 +1,5 @@
 homepage: https://github.com/tvondra/quantile
 url: https://github.com/tvondra/quantile/archive/quantile-1.1.2.tar.gz
 sha1: 75c6126592200196283b5cede0b760ed335c5eb5
+type: extension
+summary: Three simple aggregate functions to compute quantiles (http://en.wikipedia.org/wiki/Quantile)

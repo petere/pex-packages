@@ -2,3 +2,5 @@ homepage: https://github.com/petere/pgvihash
 url: https://github.com/petere/pgvihash/archive/1.20131029.tar.gz
 sha1: 4f0577780234bee21f6e2981ecaa9cf6bec1c18d
 aliases: vihash
+type: extension
+summary: Version-independent hash functions for PostgreSQL

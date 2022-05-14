@@ -1,3 +1,5 @@
-homepage: https://www.2ndquadrant.com/en/resources/pglogical/
+homepage: https://www.2ndquadrant.com/en/resources-old/pglogical/
 url: http://packages.2ndquadrant.com/pglogical/tarballs/pglogical-2.1.1.tar.bz2
 sha1: 31b4c3dd9567f1bd784c0efadc776f164ef8159a
+type: extension
+summary: Logical replication system

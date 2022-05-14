@@ -1,3 +1,5 @@
 homepage: https://github.com/petere/pgpcre
 url: https://github.com/petere/pgpcre/archive/0.20130828.tar.gz
 sha1: 117036c47c47ac025ca4b8e78aa8273dff43c2e1
+type: extension
+summary: Exposes Perl-compatible regular expressions (PCRE) functionality as functions and operators

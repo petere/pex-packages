@@ -1,3 +1,5 @@
 homepage: https://github.com/EnterpriseDB/mysql_fdw
 url: https://github.com/EnterpriseDB/mysql_fdw/archive/REL-2_5_5.tar.gz
 sha1: fd7f7df844ab8140a4b49d4e276c6a1e455a04ee
+type: extension:fdw
+summary: Foreign Data Wrapper for MySQL

@@ -1,3 +1,5 @@
 homepage: http://pgtap.org/
 url: http://api.pgxn.org/dist/pgtap/0.98.0/pgtap-0.98.0.zip
 sha1: db22a3ef22184e77b3daa820da97f0c187fc35ed
+type: extension
+summary: Functions that make it easy to write TAP-emitting unit tests

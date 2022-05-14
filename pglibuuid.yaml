@@ -2,3 +2,5 @@ homepage: https://github.com/petere/pglibuuid
 url: https://github.com/petere/pglibuuid/archive/46b95c9c442f140ac6959e13d0cca09fa3928f62.tar.gz
 sha1: db22ddad15ef3b5059557c5a3f8b3dcd78d580a0
 aliases: libuuid
+type: extension
+summary: Provides functions to create UUIDs, using the C library libuuid as its backing implementation.

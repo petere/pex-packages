@@ -1,3 +1,5 @@
 homepage: https://github.com/RhodiumToad/ip4r
 url: https://github.com/RhodiumToad/ip4r/archive/2.4.1.tar.gz
 sha1: 726d4bed5c26f189fc29c5db844e1032ad9ae872
+type: extension:type
+summary: IPv4/v6 and IPv4/v6 range index type for PostgreSQL
