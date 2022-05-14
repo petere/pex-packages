@@ -1,3 +1,5 @@
 homepage: https://github.com/citusdata/citus
 url: https://github.com/citusdata/citus/archive/v7.1.2.tar.gz
 sha1: 025239e9c1286bb494d474dac98fe7faa2799d5c
+type: extension
+summary: Makes Postgres into a distributed database (high performance at scale)

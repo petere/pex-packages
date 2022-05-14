@@ -1,3 +1,5 @@
 homepage: https://github.com/pgaudit/set_user
 url: https://github.com/pgaudit/set_user/archive/refs/tags/REL2_0_0.tar.gz
 sha1: 189bb3a6fab22ea4dd7c5703f8dfacf262b96bd5
+type: extension
+summary: Allows switching users and optional privilege escalation with enhanced logging and control

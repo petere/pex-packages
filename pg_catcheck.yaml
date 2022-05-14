@@ -1,3 +1,5 @@
 homepage: https://github.com/EnterpriseDB/pg_catcheck
 url: https://github.com/EnterpriseDB/pg_catcheck/archive/refs/tags/1.2.0.tar.gz
 sha1: aeb065a54f480df9ddf845756c47213fb0a80f83
+type: tool
+summary: Diagnoses system catalog corruption

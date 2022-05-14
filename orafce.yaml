@@ -1,3 +1,5 @@
 homepage: https://github.com/orafce/orafce
 url: https://github.com/orafce/orafce/archive/VERSION_3_6_1.tar.gz
 sha1: ac3a454e5df162ff3cd7e621944fb56b0694d637
+type: extension
+summary: Useful functions that can help with porting Oracle applications or be generally useful

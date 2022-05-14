@@ -2,3 +2,5 @@ homepage: https://github.com/petere/pguint
 url: https://github.com/petere/pguint/archive/1.20200704.tar.gz
 sha1: 91641c7f18a5ffb05905577b86cd4d1f58de1e2a
 aliases: uint
+type: extension:type
+summary: provides additional integer types for Postgres: int1, unit1, uint2, uint4, uint8

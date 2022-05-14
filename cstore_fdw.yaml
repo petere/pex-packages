@@ -1,3 +1,5 @@
 homepage: https://citusdata.github.io/cstore_fdw/
 url: https://github.com/citusdata/cstore_fdw/archive/v1.6.0.tar.gz
 sha1: 5470e5ca860746e7093c1fc0a579d43e3e593091
+type: extension:fdw
+summary: column-oriented store; faster analytics, lower storage

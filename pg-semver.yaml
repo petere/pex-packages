@@ -2,3 +2,5 @@ homepage: https://github.com/theory/pg-semver/
 url: https://github.com/theory/pg-semver/archive/v0.17.0.tar.gz
 sha1: c00e19689314741c557c9c2a35172cca0b22e2df
 aliases: semver
+type: extension:type
+summary: Implements the version number format specified by the Semantic Versioning 2.0.0 Specification.

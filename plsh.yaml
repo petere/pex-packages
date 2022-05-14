@@ -1,3 +1,5 @@
 homepage: https://github.com/petere/plsh
 url: https://github.com/petere/plsh/archive/1.20200522.tar.gz
 sha1: 7c6f204217610867ad5eefaa1a72da804aaf9667
+type: extension:language
+summary: Allows embedding of sh scripts in Postgres

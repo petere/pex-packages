@@ -1,3 +1,5 @@
 homepage: https://github.com/ohmu/pgmemcache
 url: https://github.com/ohmu/pgmemcache/archive/2.3.0.tar.gz
 sha1: 4cb8833372a996b6753857e49580c10c75047436
+type: extension
+summary: A set of PostgreSQL user-defined functions that provide an interface to memcached

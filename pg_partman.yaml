@@ -1,3 +1,5 @@
 homepage: https://github.com/keithf4/pg_partman
 url: https://github.com/keithf4/pg_partman/archive/v4.5.0.tar.gz
 sha1: 825dcec878a211b699b0ded09557c9d2d8d31b76
+type: extension
+summary: Create and manage both time-based and serial-based table partition sets

@@ -1,3 +1,5 @@
 homepage: http://villemain.org/projects/pgfincore
 url: https://github.com/klando/pgfincore/archive/1.2.2.tar.gz
 sha1: f2868438724f10d165d3e01f201c4571ec890e32
+type: extension
+summary: A set of functions to manage pages in memory from PostgreSQL

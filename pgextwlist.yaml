@@ -1,3 +1,5 @@
 homepage: https://github.com/dimitri/pgextwlist
 url: https://github.com/dimitri/pgextwlist/archive/v1.9.tar.gz
 sha1: 43db6bb6099ca8f0fada3858254b331b0f4a2152
+type: extension
+summary: Extension whitelisting; will actively prevent users from installing extensions not in the provided list

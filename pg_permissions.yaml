@@ -1,3 +1,5 @@
 homepage: https://github.com/cybertec-postgresql/pg_permission
 url: https://github.com/cybertec-postgresql/pg_permission/archive/refs/tags/REL_1_1.tar.gz
 sha1: 5241b2a2ee4d4073080ee7f8bdbfba7311ecf971
+type: extension
+summary: Review object permissions

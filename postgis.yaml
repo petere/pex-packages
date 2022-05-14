@@ -1,3 +1,5 @@
 homepage: http://postgis.net/
 url: http://download.osgeo.org/postgis/source/postgis-3.1.1.tar.gz
 sha1: 3fa7706a28136334ae56fb16f58f916141f4205b
+type: extension:fdw
+summary: Support for geographic objects allowing location queries to be run in SQL

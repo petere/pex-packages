@@ -2,3 +2,5 @@ homepage: https://github.com/aggregateknowledge/postgresql-hll
 url: https://github.com/aggregateknowledge/postgresql-hll/archive/v2.15.1.tar.gz
 sha1: 330b8d81db3951ab3cd9f551f542c72de4eae585
 aliases: hll
+type: extension:type
+summary: A new data type hll which is a HyperLogLog data structure; for estimating distinct values among billions of records

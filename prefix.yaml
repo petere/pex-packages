@@ -1,3 +1,5 @@
 homepage: https://github.com/dimitri/prefix
 url: https://github.com/dimitri/prefix/archive/v1.2.9.tar.gz
 sha1: 1c77e8b542c154d91d8249d6302a809a00a0ae14
+type: extension
+summary: Prefix matching for telephony applications

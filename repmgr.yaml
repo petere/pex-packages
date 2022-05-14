@@ -1,3 +1,5 @@
 homepage: https://repmgr.org/
 url: https://www.repmgr.org/download/repmgr-5.2.tar.gz
 sha1: b51474d70f2f0636377f48e9506b54f34e1d555a
+type: extension
+summary: Managing replication and failover in a cluster

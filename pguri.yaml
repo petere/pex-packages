@@ -2,3 +2,5 @@ homepage: https://github.com/petere/pguri
 url: https://github.com/petere/pguri/archive/1.20151224.tar.gz
 sha1: 1dd2128ec1805102e08aa0656aa500cc9052b3f2
 aliases: uri
+type: extension:type
+summary: uri type for PostgreSQL

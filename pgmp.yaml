@@ -1,3 +1,5 @@
 homepage: https://www.varrazzo.com/pgmp/
 url: https://github.com/dvarrazzo/pgmp/archive/rel-1.0.4.tar.gz
 sha1: 5415d157d8a98d26c1e62d06263b979c4c80300d
+type: extension
+summary: Multiple precision arithmetic (adds the GMP data types and functions directly into the database)

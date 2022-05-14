@@ -1,3 +1,5 @@
 homepage: http://www.joeconway.com/plr.html
 url: https://github.com/postgres-plr/plr/archive/refs/tags/REL8_4_1.tar.gz
 sha1: 2810dc6e97d9ee2e216f94b5df07bb54f3912f43
+type: extension:language
+summary: R Procedural Language for PostgreSQL
